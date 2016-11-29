@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.tianqi.moji.com	TRUE	/	FALSE		__ads_session	yrXb7ymzzgg0cW0RlgA=
+tianqi.moji.com	FALSE	/	FALSE		liveview_page_cursor	eyJtaW5JZCI6NjgwMTUwMzYsIm1heElkIjo2ODA4MDc5OSwibWluQ3JlYXRlVGltZSI6MTQ3NzM2NDY0MzAwMCwibWF4Q3JlYXRlVGltZSI6MTQ3NzUzMjMwMjAwMH0=
+tianqi.moji.com	FALSE	/	FALSE		moji_setting	{"internal_id":600}
